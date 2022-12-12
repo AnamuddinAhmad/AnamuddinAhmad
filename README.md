@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnamuddinAhmad" alt="anamuddinahmad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="@ahmad_anamuddin" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/@ahmad_anamuddin](https://twitter.com/ahmad_anamuddin)" target="blank"><img src="https://img.shields.io/twitter/follow/@ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="@ahmad_anamuddin" /></a> </p>
 
 - 🌱 I’m currently learning **C,C++,CSS,HTML,JAVA**
 
