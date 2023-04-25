@@ -27,7 +27,7 @@
 <a href="https://instagram.com/official_anam_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_anam_ali" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anamuddinahmad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anamuddinahmad01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anamuddinahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anamuddinahmad" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anamuddin_ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anamuddin_ahmad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/anamuddinahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anamuddinahmad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
