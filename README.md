@@ -38,4 +38,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anamuddinahmad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/AnamuddinAhmad/AnamuddinAhmad/blob/output/github-contribution-grid-snake.gif)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AnamuddinAhmad/AnamuddinAhmad/output/snake.svg" alt="Snake animation" />
+
+###
