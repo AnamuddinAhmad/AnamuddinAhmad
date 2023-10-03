@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamuddinahmad&show_icons=true&locale=en&bg_color=212121&color=ffffff&line=8c6e8c&point=80dbc0&area=true&hide_border=true" alt="anamuddinahmad" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anamuddinahmad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![snake gif](https://github.com/AnamuddinAhmad/AnamuddinAhmad/blob/output/github-contribution-grid-snake.gif)
