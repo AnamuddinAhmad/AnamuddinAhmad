@@ -15,10 +15,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Set up Node.js
+      - name: Use Node.js 16
         uses: actions/setup-node@v2
         with:
           node-version: 16
+          check-latest: true
 
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
