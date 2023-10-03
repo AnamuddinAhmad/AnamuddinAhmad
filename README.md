@@ -1,7 +1,7 @@
 [![An image of @anamuddinahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamuddinahmad)](https://holopin.io/@anamuddinahmad)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+20+years+old.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Student.;Be+Welcome!!)](https://git.io/typing-svg)
 <h3 align="center">I am a learner with Massive_dedication & Consistent person 🔥</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamuddinahmad&label=Profile%20views&color=0e75b6&style=flat" alt="anamuddinahmad" /> </p>
 
