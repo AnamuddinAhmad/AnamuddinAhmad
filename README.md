@@ -1,6 +1,6 @@
 [![An image of @anamuddinahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamuddinahmad)](https://holopin.io/@anamuddinahmad)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+20+years+old.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Student.;Be+Welcome!!)](https://git.io/typing-svg)
-<h3 align="center">A passionate frontend developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+20+years+old.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Student.;Be+Welcome!!)](https://git.io/typing-svg);
+<h3 align="center">I am a Learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamuddinahmad&label=Profile%20views&color=0e75b6&style=flat" alt="anamuddinahmad" /> </p>
@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **HACKTOBER-FEST**
 
 - 🌱 I’m currently learning **Java || DSA || F-end Dev**
 
-- 💬 Ask me about **HTML CSS JAVA**
+- 💬 Ask me about **HTML CSS JAVA JAVASCRIPT **
 
 - 📫 How to reach me **anamuddinahmad0786@gmail.com**
 
-- ⚡ Fun fact **I'm Funny**
+- ⚡ Fun fact **I'm noob developer **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
