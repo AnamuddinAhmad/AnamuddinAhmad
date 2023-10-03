@@ -36,12 +36,8 @@
    <img src="https://github-readme-stats.vercel.app/api?username=AnamuddinAhmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
 </div>
 
-###
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anamuddinahmad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br clear="both">
-
+<h3 align="center">Contribution graph:</h3>
 <img src="https://raw.githubusercontent.com/AnamuddinAhmad/AnamuddinAhmad/output/snake.svg" alt="Snake animation" />
-
-###
