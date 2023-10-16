@@ -5,7 +5,9 @@
 
 <!-- <h3 align="left">I am a learner with Massive_dedication & Consistent person 🔥</h3>-->
 <!--<img align="right" alt="" width="400" src="">-->
-[![Github](https://img.shields.io/github/followers/anamuddinahmad?label=Follow&style=social)](https://github.com/anamuddinahmad) <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamuddinahmad&label=Profile%20views&color=0e75b6&style=flat" alt="anamuddinahmad" /> </p>
+![Twitch Status](https://img.shields.io/twitch/status/anamuddinahmad?style=for-the-badge&logo=Twitch)
+[![Github](https://img.shields.io/github/followers/anamuddinahmad?label=Follow&style=social)](https://github.com/anamuddinahmad) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamuddinahmad&label=Profile%20views&color=0e75b6&style=flat" alt="anamuddinahmad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a> </p>
 
