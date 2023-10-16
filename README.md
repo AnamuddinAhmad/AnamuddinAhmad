@@ -42,11 +42,23 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <!-- <hr> -->
-  <h3 align="center">Most Used Langues & COMMIT'S </h3>
+<!--   <h3 align="center">Most Used Langues & COMMIT'S </h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnamuddinAhmad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
    <img src="https://github-readme-stats.vercel.app/api?username=AnamuddinAhmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"/>
+</div> -->
+
+<h3> &#x1f4c8; GitHub Stats</h3>
+<div align="center" >
+    <a  href="https://github.com/anamuddinahmad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anamuddinahmad&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anamuddinahmad&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anamuddinahmad&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamuddinahmad&theme=dark" width="100%" height="50%">
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mannxxx&theme=dark&utcOffset=8" width="100" height="50%"> -->
+    </a>
 </div>
+
 <h3 align="center">Contribution Graph </h3>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anamuddinahmad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
