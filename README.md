@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a>  </p>
 
-- 🔭 I’m currently working on :- **HACKTOBER-FEST**
+- 🔭 I’m currently working on :- `SWOF`
 
-- 🌱 I’m currently learning :- **Java || DSA || F-end Dev**
+- 🌱 I’m currently learning :- `Java || DSA || F-end Dev`
 
-- 💬 Ask me about :-  **HTML CSS JAVA JAVASCRIPT**
+- 💬 Ask me about :-   `HTML CSS JAVA JAVASCRIPT`
 
-- 📫 How to reach me :- **anamuddinahmad0786@gmail.com**
+- 📫 How to reach me :- `anamuddinahmad0786@gmail.com`
 
-- ⚡ Fun fact :- **I'm noob developer**
+- ⚡ Fun fact :-   `I'm noob developer`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
