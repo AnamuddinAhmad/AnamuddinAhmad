@@ -1,15 +1,12 @@
 [![An image of @anamuddinahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamuddinahmad)](https://holopin.io/@anamuddinahmad)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+20+years+old.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Student.;Be+Welcome!!)](https://git.io/typing-svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=anamuddinahmad)](https://github-profile-trophy.vercel.app/?username=anamuddinahmad&theme=monokai)
-
 
 <!-- <h3 align="left">I am a learner with Massive_dedication & Consistent person 🔥</h3>-->
 <!--<img align="right" alt="" width="400" src="">-->
-![Twitch Status](https://img.shields.io/twitch/status/anamuddinahmad?style=for-the-badge&logo=Twitch)
 [![Github](https://img.shields.io/github/followers/anamuddinahmad?label=Follow&style=social)](https://github.com/anamuddinahmad) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamuddinahmad&label=Profile%20views&color=0e75b6&style=flat" alt="anamuddinahmad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamuddinahmad&label=Profile%20views&color=0e75b6&style=flat" alt="anamuddinahmad"/> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a>  </p>
 
 - 🔭 I’m currently working on :- **HACKTOBER-FEST**
 
@@ -31,7 +28,7 @@
 <a href="https://www.leetcode.com/anamuddinahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anamuddinahmad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/anamuddinahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anamuddinahmad" height="30" width="40" /></a>
 </p>
-
+<div>
 <h3 align="left">Languages and Tools</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -43,12 +40,15 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<!-- <hr> -->
+</div>
+  <!-- <hr> -->
 <!--   <h3 align="center">Most Used Langues & COMMIT'S </h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnamuddinAhmad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph"  />
    <img src="https://github-readme-stats.vercel.app/api?username=AnamuddinAhmad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"/>
 </div> -->
+<div>
+
 
 <h3> &#x1f4c8; GitHub Stats</h3>
 <div align="center" >
@@ -60,6 +60,16 @@
 <!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mannxxx&theme=dark&utcOffset=8" width="100" height="50%"> -->
     </a>
 </div>
+
+<hr>
+  
+[![AnamuddinAhmad's GitHub | Topics Over Time](https://stats.quine.sh/AnamuddinAhmad/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnamuddinAhmad)
+<hr>
+</div>
+
+[![AnamuddinAhmad's GitHub | Languages Over Time](https://stats.quine.sh/AnamuddinAhmad/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnamuddinAhmad)
+
+
 
 <h3 align="center">Contribution Graph </h3>
   
