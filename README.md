@@ -16,7 +16,7 @@
 
 - 📫 How to reach me :- `anamuddinahmad0786@gmail.com`
 
-- ⚡ Fun fact :-   `I'm noob developer`
+- ⚡ Fun fact :-   `Everything is illusions`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
