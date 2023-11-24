@@ -63,13 +63,13 @@
 
 <hr>
   
-[![AnamuddinAhmad's GitHub | Topics Over Time](https://stats.quine.sh/AnamuddinAhmad/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnamuddinAhmad)
+<!--[![AnamuddinAhmad's GitHub | Topics Over Time](https://stats.quine.sh/AnamuddinAhmad/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnamuddinAhmad)
 <hr>
 </div>
 
 [![AnamuddinAhmad's GitHub | Languages Over Time](https://stats.quine.sh/AnamuddinAhmad/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnamuddinAhmad)
 
-
+-->
 
 <h3 align="center">Contribution Graph </h3>
   
