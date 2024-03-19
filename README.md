@@ -1,3 +1,8 @@
+<h1  align="center">Hi there 👋, I'm Anamuddin Ahmad</h1>
+<h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
+
+
+
 [![An image of @anamuddinahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamuddinahmad)](https://holopin.io/@anamuddinahmad)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+20+years+old.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Student.;Be+Welcome!!)](https://git.io/typing-svg)
 
@@ -18,8 +23,9 @@
 
 - ⚡ Fun fact :-   `Everything is illusions`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmad_anamuddin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anamuddinahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamuddinahmad" height="30" width="40" /></a>
 <a href="https://fb.com/åñåm ålï" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="åñåm ålï" height="30" width="40" /></a>
@@ -28,8 +34,34 @@
 <a href="https://www.leetcode.com/anamuddinahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anamuddinahmad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/anamuddinahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anamuddinahmad" height="30" width="40" /></a>
 </p>
-<div>
-<h3 align="left">Languages and Tools</h3>
+
+<br />
+<hr />
+
+<h3 align="center">Language and Tools:</h3>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Mongodb](https://img.shields.io/badge/mongodb-%236DB33F.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/express-%230A0FFF.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=#00C7B7)
+![Node](https://img.shields.io/badge/node-js-%236DB33F.svg?style=for-the-badge&logo=node-js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/tailwind-css-%2300f.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-%230047B3.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Canva](https://img.shields.io/badge/canva-FE7A16.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-59666C?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ 
+<br />
+<hr />
+
+
+<!-- <div> -->
+<!-- <h3 align="left">Languages and Tools</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -41,10 +73,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-</div>
+</div> -->
   <!-- <hr> -->
 <!--   <h3 align="center">Most Used Langues & COMMIT'S </h3>
 <div align="left">
@@ -54,13 +86,13 @@
 <div>
 
 
-<h3> &#x1f4c8; GitHub Stats</h3>
+<h3 align="center"> &#x1f4c8; GitHub Stats</h3>
 <div align="center" >
     <a  href="https://github.com/anamuddinahmad">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anamuddinahmad&theme=dark" width="32.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anamuddinahmad&theme=dark" width="32.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anamuddinahmad&theme=dark" width="32.5%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamuddinahmad&theme=dark" width="100%" height="50%">
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamuddinahmad&theme=dark" width="100%" height="50%"> -->
 <!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mannxxx&theme=dark&utcOffset=8" width="100" height="50%"> -->
     </a>
 </div>
