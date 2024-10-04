@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a>  </p>
 
-- 🔭 I’m currently working on :- `HacktoberFest`
+- 🔭 I’m currently working on :- `HacktoberFest-2024`
 
 - 🌱 I’m currently learning :- `Java || DSA || MERN Stack`
 
