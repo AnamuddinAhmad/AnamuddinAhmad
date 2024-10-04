@@ -13,15 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a>  </p>
 
-- 🔭 I’m currently working on :- `SWOF`
+- 🔭 I’m currently working on :- `HacktoberFest`
 
-- 🌱 I’m currently learning :- `Java || DSA || F-end Dev`
+- 🌱 I’m currently learning :- `Java || DSA || MERN Stack`
 
-- 💬 Ask me about :-   `HTML CSS JAVA JAVASCRIPT`
+- 💬 Ask me about :-   `HTML ,CSS ,JAVA ,JAVASCRIPT ,MERN Stack`
 
 - 📫 How to reach me :- `anamuddinahmad0786@gmail.com`
 
-- ⚡ Fun fact :-   `Everything is illusions`
+- ⚡ Fun fact :-   `You will survive Until you are Updated.`
 
 
 <h3 align="center">Connect with me:</h3>
