@@ -82,6 +82,19 @@
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D.svg?style=for-the-badge&logo=hoppscotch&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![SachaDchien UI](https://img.shields.io/badge/SachaDchien%20UI-4A4A4A.svg?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=webrtc&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-0B0B0B.svg?style=for-the-badge&logo=clerk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![React-Toastify](https://img.shields.io/badge/React--Toastify-363636.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750.svg?style=for-the-badge&logo=serverless&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-00C8FF.svg?style=for-the-badge&logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-333333.svg?style=for-the-badge&logo=bun&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 
 <br />
