@@ -17,14 +17,14 @@
 
 - 🌱 I’m currently learning :- `Java || DSA || MERN Stack`
 
-- 💬 Ask me about :-   `HTML ,CSS ,JAVA ,JAVASCRIPT ,MERN Stack`
+- 💬 Ask me about :-   `HTML ,CSS ,JAVA ,JAVASCRIPT ,From my section Language and Tools.`
 
-- 📫 How to reach me :- `anamuddinahmad0786@gmail.com`
+- 📫 How to reach me :- [Portfolio ](https://anamuddinahmad.github.io/Portfolio_1/)
 
 - ⚡ Fun fact :-   `You will survive Until you are Updated.`
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmad_anamuddin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anamuddinahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anamuddinahmad" height="30" width="40" /></a>
@@ -38,7 +38,7 @@
 <br />
 <hr />
 
-<h3 align="center">Language and Tools:</h3>
+<h3 align="center">Language and Tools</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
