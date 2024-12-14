@@ -98,7 +98,7 @@
 ![EDA](https://img.shields.io/badge/EDA-FF6F00.svg?style=for-the-badge&logo=eventbrite&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-239120.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-6C757D.svg?style=for-the-badge&logo=microgenetics&logoColor=white)
-
+![PHP](https://img.shields.io/badge/PHP-%230A0FFF.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <br />
 <hr />
