@@ -1,15 +1,16 @@
-<h1  align="center">Hi there 👋, I'm Anamuddin Ahmad</h1>
+<!--<h1  align="center">Hi there 👋, I'm Anamuddin Ahmad</h1> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+a+MERN+Stack+Developer+and+Software+Engineer.;Currently+interning+at+WinsomeMinds+working+on+innovative+web+solutions.;Passionate+about+building+scalable+applications+and+delivering+impactful+solutions.;Always+learning+and+growing+in+the+world+of+Web+Development+and+Technology.;Let’s+build+the+future+of+the+web+together!)](https://git.io/typing-svg)
+
 <!-- <h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4> -->
 
 
 
 [![An image of @anamuddinahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anamuddinahmad)](https://holopin.io/@anamuddinahmad)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+Software+Developer.;I'm+a+MERN+Stack+Developer.;I'm+from+India.;I'm+Computer+Science+And+Engineering+Student.;Be+Welcome!!)](https://git.io/typing-svg)
 
 <!-- <h3 align="left">I am a learner with Massive_dedication & Consistent person 🔥</h3>-->
 <!--<img align="right" alt="" width="400" src="">-->
-[![Github](https://img.shields.io/github/followers/anamuddinahmad?label=Follow&style=social)](https://github.com/anamuddinahmad) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamuddinahmad&label=Profile%20views&color=0e75b6&style=flat" alt="anamuddinahmad"/> </p>
+<!--[![Github](https://img.shields.io/github/followers/anamuddinahmad?label=Follow&style=social)](https://github.com/anamuddinahmad) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamuddinahmad&label=Profile%20views&color=0e75b6&style=flat" alt="anamuddinahmad"/> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a>  </p>
 
