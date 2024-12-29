@@ -1,5 +1,5 @@
 <h1  align="center">Hi there 👋, I'm Anamuddin Ahmad</h1>
-<h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4>
+<!-- <h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4> -->
 
 
 
@@ -13,15 +13,20 @@
 
 <p align="left"> <a href="https://twitter.com/ahmad_anamuddin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmad_anamuddin?logo=twitter&style=for-the-badge" alt="ahmad_anamuddin" /></a>  </p>
 
-- 🔭 I’m currently working as a Intern in :- `WinsomeMinds`
+<h4>🌟 About Me</h4>
 
-- 🌱 I’m currently learning :- `Java || DSA || MERN Stack`
 
-- 💬 Ask me about :-   `HTML ,CSS ,JAVA ,JAVASCRIPT ,From my section Language and Tools.`
+- 🔭 Currently Exploring: Interning at `WinsomeMinds`, where I’m contributing to innovative web development projects using the MERN stack.
 
-- 📫 How to reach me :- [Portfolio ](https://anamuddinahmad.github.io/Anamuddin_Portfolio/)
+- 🌱 Always Learning: Diving deeper into `Java`, `DSA`, and `MERN Stack` to enhance my problem-solving and full-stack development skills.
 
-- ⚡ Fun fact :-   `My keyboard might type "console.log()" more than "hello," but it speaks the language of innovation fluently! 💻`
+- 💬 Let’s Talk About: Web development, coding best practices, responsive design, and tools like `HTML`, `CSS`, `JavaScript`, and `TailwindCSS`.
+
+- 🎯 Goals: 🌐 To master backend optimization, build scalable applications, and explore cloud computing technologies.
+
+- 📫 How to reach me : Check out my [Portfolio ](https://anamuddinahmad.github.io/Anamuddin_Portfolio/) or connect with me on LinkedIn.
+
+- ⚡ Fun fact : 🔥My keyboard might type `console.log()` more than "hello," but it speaks the language of innovation fluently! 💻
 
 
 <h3 align="center">Connect with me</h3>
