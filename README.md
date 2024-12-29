@@ -19,7 +19,7 @@
 
 - 💬 Ask me about :-   `HTML ,CSS ,JAVA ,JAVASCRIPT ,From my section Language and Tools.`
 
-- 📫 How to reach me :- [Portfolio ](https://anamuddinahmad.github.io/Portfolio_1/)
+- 📫 How to reach me :- [Portfolio ](https://anamuddinahmad.github.io/Anamuddin_Portfolio/)
 
 - ⚡ Fun fact :-   `You will survive Until you are Updated.`
 
