@@ -21,7 +21,7 @@
 
 - 📫 How to reach me :- [Portfolio ](https://anamuddinahmad.github.io/Anamuddin_Portfolio/)
 
-- ⚡ Fun fact :-   `You can survive unit you are updated with tech.`
+- ⚡ Fun fact :-   `My keyboard might type "console.log()" more than "hello," but it speaks the language of innovation fluently! 💻`
 
 
 <h3 align="center">Connect with me</h3>
