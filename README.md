@@ -21,7 +21,7 @@
 
 - 📫 How to reach me :- [Portfolio ](https://anamuddinahmad.github.io/Anamuddin_Portfolio/)
 
-- ⚡ Fun fact :-   `You will survive Until you are Updated.`
+- ⚡ Fun fact :-   `You can survive unit you are updated with tech.`
 
 
 <h3 align="center">Connect with me</h3>
