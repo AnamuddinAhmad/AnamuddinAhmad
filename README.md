@@ -46,7 +46,7 @@
 
 <h3 align="center">Language and Tools</h3>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -104,9 +104,8 @@
 ![EDA](https://img.shields.io/badge/EDA-FF6F00.svg?style=for-the-badge&logo=eventbrite&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-239120.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-6C757D.svg?style=for-the-badge&logo=microgenetics&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%230A0FFF.svg?style=for-the-badge&logo=php&logoColor=white)  
-
-<br />
+![PHP](https://img.shields.io/badge/PHP-%230A0FFF.svg?style=for-the-badge&logo=php&logoColor=white)
+![DOCKER](https://img.shields.io/badge/DOCKER-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 <hr />
 
 
