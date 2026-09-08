@@ -1,5 +1,5 @@
 <!--<h1  align="center">Hi there 👋, I'm Anamuddin Ahmad</h1> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+a+MERN+Stack+Developer+and+Software+Engineer.;Currently+interning+at+WinsomeMinds+working+on+innovative+web+solutions.;Passionate+about+building+scalable+applications+and+delivering+impactful+solutions.;Always+learning+and+growing+in+the+world+of+Web+Development+and+Technology.;Let’s+build+the+future+of+the+web+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'm+Anamuddin+Ahmad.;I'm+a+Software+Developer+and+Full-Stack+Developer.;Java+%7C+Spring+Boot+%7C+Spring+Security+%7C+JWT;REST+APIs+%7C+JPA+%7C+MySQL+%7C+MERN+Stack;Building+a+Secure+Authentication+Application.;Former+Software+Developer+at+Bluescope+Information+Technology+Pvt.+Ltd.;Immediate+Joiner+%7C+Open+to+New+Opportunities.;Always+Learning%2C+Building%2C+and+Growing!)](https://git.io/typing-svg)
 
 <!-- <h4 align="center" style="color:blue;">Welcome to my Github Profile😋</h4> -->
 
@@ -16,18 +16,21 @@
 
 <h4>🌟 About Me</h4>
 
+* 🚀 **Current Status:** **Immediate Joiner** — actively looking for opportunities where I can contribute to real-world software projects and grow as a Software Engineer.
 
-- 🔭 Currently Exploring: Interning at `WinsomeMinds`, where I’m contributing to innovative web development projects using the MERN stack.
+* 💻 **Currently Building:** A secure **Authentication & Authorization application** using `Java`, `Spring Boot`, `Spring Security`, `JWT`, `OAuth2`, and `PostgreSQL`, with a focus on scalable backend architecture and secure authentication flows.
 
-- 🌱 Always Learning: Diving deeper into `Java`, `DSA`, and `MERN Stack` to enhance my problem-solving and full-stack development skills.
+* 🏢 **Professional Experience:** Former **Software Developer at Bluescope Information Technology Pvt. Ltd.**, where I gained hands-on experience in software and web application development.
 
-- 💬 Let’s Talk About: Web development, coding best practices, responsive design, and tools like `HTML`, `CSS`, `JavaScript`, and `TailwindCSS`.
+* 🧑‍💻 **Technical Focus:** Strongly focused on `Java`, `Spring Boot`, `Spring Security`, `REST APIs`, `JWT`, `JPA/Hibernate`, `PostgreSQL`, and backend development, along with experience in `JavaScript`, `React`, and the `MERN Stack`.
 
-- 🎯 Goals: 🌐 To master backend optimization, build scalable applications, and explore cloud computing technologies.
+* 🌱 **Always Learning:** Continuously improving my knowledge of `DSA`, backend architecture, authentication & authorization, database design, API development, and scalable application development.
 
-- 📫 How to reach me : Check out my [Portfolio ](https://anamuddinahmad.github.io/Anamuddin_Portfolio/) or connect with me on LinkedIn.
+* 🎯 **Career Goals:** Looking to build robust and scalable backend systems, deepen my expertise in **Java & Spring Boot**, and explore areas such as **cloud computing, distributed systems, and system design**.
 
-- ⚡ Fun fact : 🔥My keyboard might type `console.log()` more than "hello," but it speaks the language of innovation fluently! 💻
+* 📫 **Let’s Connect:** Check out my [Portfolio](https://anamuddinahmad.github.io/Anamuddin_Portfolio/) or connect with me on LinkedIn.
+
+* ⚡ **Fun Fact:** 🔥 My keyboard has probably typed `@RestController`, `@Service`, and `console.log()` more times than "hello" — and I'm perfectly okay with that! 💻
 
 
 <h3 align="center">Connect with me</h3>
