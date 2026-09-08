@@ -146,7 +146,7 @@
     </a>
 </div>
 
-<hr>
+<!-- <hr> -->
   
 <!--[![AnamuddinAhmad's GitHub | Topics Over Time](https://stats.quine.sh/AnamuddinAhmad/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnamuddinAhmad)
 <hr>
@@ -156,7 +156,6 @@
 
 -->
 
-<h3 align="center">Contribution Graph </h3>
+<!-- <h3 align="center">Contribution Graph </h3> -->
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anamuddinahmad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
